@@ -1,4 +1,4 @@
-///  The Game is based on the youtube series made by RyiSnow - ⭐https://www.youtube.com/@RyiSnow⭐ \\\ 
+///  The Game is based on the youtube series made by RyiSnow - ⭐ https://www.youtube.com/@RyiSnow ⭐ \\\ 
              __.-/|           
              \`o_O'             
               =( )=  +-----+   
